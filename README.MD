@@ -85,7 +85,7 @@ Credit card fraud costs financial institutions billions annually. This analysis 
 **Model**: LogisticRegression with balanced class weights and feature scaling
 
 ## Repository Contents
-├── data_cleaning_ml_model_pipeline.py          # Complete analysis pipeline   
+├── data_cleaning_ml_model.ipynb          # Complete analysis pipeline   
 ├── fraud_*.png              # EDA visualizations  
 ├── fraud_model_results.png  # Model performance metrics  
 └── README.md               # This document
